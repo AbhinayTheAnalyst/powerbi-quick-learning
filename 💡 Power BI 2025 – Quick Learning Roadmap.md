@@ -1,6 +1,9 @@
 :
 
 💡 Power BI 2025 – Quick Learning Roadmap
+firstly we learn data connecters in Power bi 
+<img width="704" height="562" alt="image" src="https://github.com/user-attachments/assets/213766fc-8559-44b3-b225-e8a2d66759d3" />
+
 Working on these data ;
 <img width="1085" height="408" alt="image" src="https://github.com/user-attachments/assets/c7e345a7-e3a6-4482-ad3a-aa9674be964c" />
 
