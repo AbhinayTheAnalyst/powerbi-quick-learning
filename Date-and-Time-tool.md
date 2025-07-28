@@ -13,3 +13,8 @@ Year nikaaloge (Date.Year)
 Month nikaaloge (Date.MonthName)
 
 Fir Group by Month karke sum(Sales) kar doge. and many more to help buisnesses
+
+by custom column and duration tool use can find shipping day weak and more
+<img width="862" height="973" alt="image" src="https://github.com/user-attachments/assets/a7164165-e0fc-4e51-a0c8-d9cfabdb7c32" />
+
+and we have alredy discussed before about conditional formating to add new column using logic and mathematical operations
