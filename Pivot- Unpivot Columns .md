@@ -29,6 +29,8 @@ Columns banenge: Attribute, Value
 
 Rename: Attribute to Month, Value to Sales (for clarity)
 
+<img width="141" height="137" alt="image" src="https://github.com/user-attachments/assets/33880d49-5f25-4652-b325-656598247fdd" />
+
 🏛️ 2. Pivot Columns – Jab same person ke multiple rows ho, unhe horizontal banana ho
 📘 Example Before Pivot:
 Name	Month	Sales
